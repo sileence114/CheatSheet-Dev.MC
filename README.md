@@ -1,5 +1,6 @@
 # CheatSheet-Dev.MC
 ![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green)
+
 记录我在 Minecraft 开发中踩过的坑。
 
 # Fabric
