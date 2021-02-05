@@ -3,8 +3,8 @@
 
 记录我在 Minecraft 开发中踩过的坑。
 
-若发现问题请提交ISSUE。
+若发现问题请提交 issue。
 
-* ## [[>]]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Java.md ) Java中的坑 
+* ## [[>]]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Java.md ) Java 中的坑 
 
-* ## [[>]]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Fabric.md )Fabric中的坑
+* ## [[>]]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Fabric.md )Fabric 中的坑
