@@ -3,6 +3,8 @@
 
 记录我在 Minecraft 开发中踩过的坑。
 
-# Fabric
-1. 在IDE中调试时显示，让控制台打印 debug 级别的消息：
-JVM参数中添加 `-Dfabric.log.level=debug`
+若发现问题请提交ISSUE。
+
+* ## [[>]]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Java.md ) Java中的坑 
+
+* ## [[>]]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Fabric.md )Fabric中的坑
