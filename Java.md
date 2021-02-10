@@ -34,7 +34,7 @@ eula.txt
 ```
 Mohist 和 CatServer 端在第一次加载时就会创建一个lib文件夹，__然后占用主线程__联网下载 jar 文件，再添加到 class path。
 
-当然某些不是很规范的 Bukkit 插件也会干这种事。__点名 TrChat。__
+当然某些不是很规范的 Bukkit 插件也会干这种事。~~点名 TrChat。~~
 
 Fabric MOD 在构建时可以通过 Fabric loom 将依赖制作成 fabric mod 并嵌入 mod jar[（详情）]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Fabric.md#2-%E6%B7%BB%E5%8A%A0%E4%BE%9D%E8%B5%96-jar )。加载 MOD 时会将其添加到 class-path。
 
