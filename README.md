@@ -5,6 +5,6 @@
 
 若发现问题请提交 issue。
 
-* ## [[>]]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Java.md ) Java 中的坑 
+## [Java 中的坑]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Java.md ) 
 
-* ## [[>]]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Fabric.md )Fabric 中的坑
+## [Fabric 中的坑]( https://github.com/sileence114/CheatSheet-Dev.MC/blob/main/Fabric.md ) 
